@@ -1,0 +1,142 @@
+{
+  "37ade5b7-38a2-8095-b6cd-ce3aff80209a": {
+    "status": "In progress",
+    "priority": "Critical",
+    "projects": "GDD + Requirements",
+    "sprint": "Pre-Production (NOW)",
+    "assignee": "มอส,กาย,มังกร",
+    "role": "System Designer,Game Designer,Producer",
+    "dueDate": "2026-06-06T23:59:00.000+07:00",
+    "subTaskStats": null
+  },
+  "378de5b7-38a2-803f-a84a-fe5779655596": {
+    "status": "In progress",
+    "priority": "Critical",
+    "projects": "GDD + Requirements",
+    "sprint": "Pre-Production (NOW)",
+    "assignee": "มังกร,กาย,มอส",
+    "role": "Producer,Game Designer,Business Analysis,System Designer",
+    "dueDate": "2026-06-06T00:00:00.000+07:00",
+    "subTaskStats": null
+  },
+  "378de5b7-38a2-802e-8693-ff43a4b14830": {
+    "status": "Not started",
+    "priority": "Critical",
+    "projects": "Pre-Production Setup",
+    "sprint": "Pre-Production (NOW)",
+    "assignee": "มังกร,คิตตี้,กาย,วีไวท์,คีน,มอส,ท่านท็อป",
+    "role": "Business Analysis,Producer Assistant,Sound Designer,Producer,UI/UX Designer,3D Model Artist,Server Developer,System Designer,Game Designer,Animator,Gameplay Programmer,UI Developer,Quality Analysis,Community Manager",
+    "dueDate": "2026-06-19T00:00:00.000+07:00",
+    "subTaskStats": null
+  },
+  "378de5b7-38a2-802e-ae3f-e0062f9991f2": {
+    "status": "Not started",
+    "priority": "Critical",
+    "projects": "GDD + Requirements",
+    "sprint": "Pre-Production (NOW)",
+    "assignee": "มังกร,คิตตี้,มอส",
+    "role": "Producer,Producer Assistant,Business Analysis,System Designer",
+    "dueDate": "2026-06-18T00:00:00.000+07:00",
+    "subTaskStats": null
+  },
+  "378de5b7-38a2-8016-ad72-fa2f67e0fdab": {
+    "status": "Not started",
+    "priority": "Medium",
+    "projects": "Audio Production",
+    "sprint": "Pre-Production (NOW)",
+    "assignee": "กาย,มอส",
+    "role": "Sound Designer,System Designer",
+    "dueDate": "2026-06-16T00:00:00.000+07:00",
+    "subTaskStats": null
+  },
+  "378de5b7-38a2-80f5-87e2-fce05672593a": {
+    "status": "Not started",
+    "priority": "High",
+    "projects": "3D Art Production",
+    "sprint": "Pre-Production (NOW)",
+    "assignee": "วีไวท์,คิตตี้,กาย,มอส",
+    "role": "3D Model Artist,UI/UX Designer,Game Designer,System Designer",
+    "dueDate": "2026-06-12T00:00:00.000+07:00",
+    "subTaskStats": null
+  },
+  "378de5b7-38a2-80d3-a561-fe4ee76ffe3f": {
+    "status": "Not started",
+    "priority": "High",
+    "projects": "UI/UX Design",
+    "sprint": "Pre-Production (NOW)",
+    "assignee": "คิตตี้,มอส",
+    "role": "UI/UX Designer,System Designer",
+    "dueDate": "2026-06-15T23:59:00.000+07:00",
+    "subTaskStats": null
+  },
+  "378de5b7-38a2-806f-ac93-cbbafa548ca7": {
+    "status": "Not started",
+    "priority": "Critical",
+    "projects": "Core Technical Systems",
+    "sprint": "Pre-Production (NOW)",
+    "assignee": "คีน",
+    "role": "Server Developer,Gameplay Programmer",
+    "dueDate": "2026-06-16T00:00:00.000+07:00",
+    "subTaskStats": null
+  },
+  "378de5b7-38a2-80b4-b874-d8b616f95b75": {
+    "status": "In progress",
+    "priority": "Critical",
+    "projects": "GDD + Requirements",
+    "sprint": "Pre-Production (NOW)",
+    "assignee": "มังกร,คีน",
+    "role": "Business Analysis,Gameplay Programmer,Producer",
+    "dueDate": "2026-06-15T00:00:00.000+07:00",
+    "subTaskStats": null
+  },
+  "378de5b7-38a2-80af-8213-c12dbea002fd": {
+    "status": "In progress",
+    "priority": "Critical",
+    "projects": "Content & Balance",
+    "sprint": "Pre-Production (NOW)",
+    "assignee": "กาย,มอส,มังกร",
+    "role": "Game Designer,System Designer,Producer,Business Analysis",
+    "dueDate": "2026-06-13T23:59:00.000+07:00",
+    "subTaskStats": null
+  },
+  "378de5b7-38a2-80c9-b723-f828754cc6bc": {
+    "status": "In progress",
+    "priority": "Critical",
+    "projects": "Design Decisions",
+    "sprint": "Pre-Production (NOW)",
+    "assignee": "มังกร,กาย,มอส",
+    "role": "Producer,Game Designer,System Designer",
+    "dueDate": "2026-06-11T00:00:00.000+07:00",
+    "subTaskStats": null
+  },
+  "378de5b7-38a2-8087-9b59-c2be55fae100": {
+    "status": "In progress",
+    "priority": "Critical",
+    "projects": "GDD + Requirements",
+    "sprint": "Pre-Production (NOW)",
+    "assignee": "มอส,กาย,มังกร",
+    "role": "System Designer,Game Designer,Producer",
+    "dueDate": "2026-06-06T00:00:00.000+07:00",
+    "subTaskStats": null
+  },
+  "378de5b7-38a2-8025-8496-df21fd96e247": {
+    "status": "Done",
+    "priority": "Critical",
+    "projects": "Pre-Production Setup",
+    "sprint": "Pre-Production (NOW)",
+    "assignee": "มังกร,คิตตี้,มอส",
+    "role": "Business Analysis,Producer Assistant,Producer,System Designer",
+    "dueDate": "2026-06-06T00:00:00.000+07:00",
+    "subTaskStats": null
+  },
+  "380de5b7-38a2-8027-b5e6-d77bce096604": {
+    "status": "Not started",
+    "priority": "High",
+    "projects": "UI/UX Design",
+    "sprint": "Pre-Production (NOW)",
+    "assignee": "คิตตี้",
+    "role": "UI/UX Designer",
+    "dueDate": "2026-07-20T00:00:00.000+07:00",
+    "subTaskStats": null
+  }
+}
